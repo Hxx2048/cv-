@@ -22,5 +22,4 @@ MaskRCNN:<br>
 [https://github.com/CharlesShang/FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN ) tf版本<br>
 
 # Dataset
-COCO/filk30
-
+[COCO](http://cocodataset.org/#download)
