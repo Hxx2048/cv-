@@ -19,7 +19,7 @@ BERT：<br>
 [https://github.com/google-research/bert](https://github.com/google-research/bert) tf版本，可使用<br>
 
 MaskRCNN:<br>
-需要tf版本，实现三份代码的对接<br>
+[https://github.com/CharlesShang/FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN ) tf版本<br>
 
 # Dataset
 COCO/filk30
