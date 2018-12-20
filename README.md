@@ -11,14 +11,15 @@
 [Dual Attention Networks for Multimodal Reasoning and Matching](https://arxiv.org/pdf/1611.00471.pdf)<br>
 
 # Code
-DualAttentionNetwork:   [https://github.com/google-research/bert](https://github.com/google-research/bert) mDAN, tf实现，可复现，效果不是很好
-    [https://github.com/kelelexu/pytorch-vqa-dan](https://github.com/kelelexu/pytorch-vqa-dan) rDAN, torch版本,需修改
+DualAttentionNetwork:<br>
+[https://github.com/google-research/bert](https://github.com/google-research/bert)  mDAN, tf实现，可复现，效果不是很好<br>
+[https://github.com/kelelexu/pytorch-vqa-dan](https://github.com/kelelexu/pytorch-vqa-dan)  rDAN, torch版本,需修改为mDAN<br>
 
-BERT：
-    [https://github.com/google-research/bert](https://github.com/google-research/bert) tf版本，可使用
+BERT：<br>
+[https://github.com/google-research/bert](https://github.com/google-research/bert) tf版本，可使用<br>
 
-MaskRCNN:
-    需要tf版本，实现三份代码的对接
+MaskRCNN:<br>
+需要tf版本，实现三份代码的对接<br>
 
 # Dataset
 COCO/filk30
