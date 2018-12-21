@@ -19,12 +19,7 @@ BERT：<br>
 [https://github.com/google-research/bert](https://github.com/google-research/bert) tf版本，可使用<br>
 
 MaskRCNN:<br>
-[https://github.com/CharlesShang/FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN ) tf版本<br>
-1. Go to ./libs/datasets/pycocotools and run make
-2. Download COCO dataset, place it into ./data, then run python download_and_convert_data.py to build tf-records. It takes a while.[>12h]
-3. Download pretrained resnet50 model, wget http://download.tensorflow.org/models/resnet_v1_50_2016_08_28.tar.gz, unzip it, place it into ./data/pretrained_models/
-4. Go to ./libs and run make
-5. run python train/train.py for training
+[https://github.com/CharlesShang/FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN ) tf版本<br>, 数据预处理>12h
 
 
 
