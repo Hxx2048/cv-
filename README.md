@@ -3,7 +3,7 @@
 ![image](https://github.com/Hxx2048/cv-/blob/master/framework.PNG)
 
 # 目前进度
-2018/12/20      BERT, DAN代码跑通,下一步跑tf版本的maskRCNN
+2018/12/20      BERT, DAN代码跑通,下一步跑tf版本的maskRCNN<br>
 2018/12/25      21号跑通maskRCNN，找不到训练节点，25重新跑
 
 # Reference
